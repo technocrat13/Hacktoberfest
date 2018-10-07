@@ -100,3 +100,4 @@ Happy Hacktoberfest :tada: :fireworks:
 * [ltkills](http://github.com/ltkills)
 * [askmhs](https://github.com/askmhs)
 *[rachitmanchanda](https://github.com/rachitmanchanda)
+[technocrat13](https://github.com/technocrat13)
